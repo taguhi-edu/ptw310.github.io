@@ -1,0 +1,19 @@
+img {
+    height: 120px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+dl {
+   white-space: pre-line;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    height: 100px;
+    width: 600px;
+    
+}
